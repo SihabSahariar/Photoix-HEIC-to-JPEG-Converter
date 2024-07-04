@@ -19,7 +19,7 @@ Convert HEIC (High-Efficiency Image Format) files to JPEG format effortlessly wi
 
 ## Screenshots
 
-![Product Feature Overview](product/Photoix HEIC to JPEG Converter.png)
+![Product Feature Overview](product/product.png)
 
 ## Installation
 
